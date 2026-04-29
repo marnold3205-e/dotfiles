@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Reviewed codebase, identified areas for improvement
+
+## 2026-04-29
+- Added basic usage examples to README
+- Added basic retry logic for network requests
