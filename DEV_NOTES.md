@@ -14,3 +14,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-22
 - Updated license year
 - Tidied up project structure
+
+## 2026-04-29
+- Reviewed codebase, identified areas for improvement
