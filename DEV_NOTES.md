@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-13
 - Tested build on clean environment
 - Added basic retry logic for network requests
+
+## 2026-05-13
+- Reviewed open issues, added labels
+- Resolved TODO items from previous session
+- Removed unused variable declarations
