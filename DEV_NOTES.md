@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added basic usage examples to README
 - Added basic retry logic for network requests
+
+## 2026-05-13
+- Tested build on clean environment
+- Added basic retry logic for network requests
